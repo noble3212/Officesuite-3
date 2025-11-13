@@ -1,5 +1,3 @@
-Here’s a **README** file tailored for your `Local Office Suite` application. It includes installation instructions, usage guidance, and a feature overview. I’ve formatted it in Markdown for easy use on GitHub or local projects.
-
 ---
 
 # Local Office Suite
